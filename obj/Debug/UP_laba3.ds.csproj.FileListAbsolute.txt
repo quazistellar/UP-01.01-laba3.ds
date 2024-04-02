@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\UP_laba3.ds\bin\Debug\UP_laba3.ds.exe.config
+C:\Users\User\source\repos\UP_laba3.ds\bin\Debug\UP_laba3.ds.exe
+C:\Users\User\source\repos\UP_laba3.ds\bin\Debug\UP_laba3.ds.pdb
+C:\Users\User\source\repos\UP_laba3.ds\obj\Debug\UP_laba3.ds.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\UP_laba3.ds\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\UP_laba3.ds\obj\Debug\App.g.cs
+C:\Users\User\source\repos\UP_laba3.ds\obj\Debug\UP_laba3.ds_MarkupCompile.cache
+C:\Users\User\source\repos\UP_laba3.ds\obj\Debug\UP_laba3.ds_MarkupCompile.lref
+C:\Users\User\source\repos\UP_laba3.ds\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\UP_laba3.ds\obj\Debug\UP_laba3.ds.g.resources
+C:\Users\User\source\repos\UP_laba3.ds\obj\Debug\UP_laba3.ds.Properties.Resources.resources
+C:\Users\User\source\repos\UP_laba3.ds\obj\Debug\UP_laba3.ds.csproj.GenerateResource.cache
+C:\Users\User\source\repos\UP_laba3.ds\obj\Debug\UP_laba3.ds.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UP_laba3.ds\obj\Debug\UP_laba3.ds.exe
+C:\Users\User\source\repos\UP_laba3.ds\obj\Debug\UP_laba3.ds.pdb
